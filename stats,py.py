@@ -6,6 +6,9 @@
 # In this programe, we calculate the standard division of a set of numbers
 #this is a try about branching
 #and pushing
+#third try
+#pull request
+
 def get_float():
     n = int(input('enter the number of list elements'))
     e = []
