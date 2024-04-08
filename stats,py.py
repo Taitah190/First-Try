@@ -4,7 +4,8 @@
 # Date: 3/13/2020
 # Name of program: gold_ratio
 # In this programe, we calculate the standard division of a set of numbers
-
+#this is a try about branching
+#and pushing
 def get_float():
     n = int(input('enter the number of list elements'))
     e = []
